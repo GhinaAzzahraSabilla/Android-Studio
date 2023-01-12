@@ -1,0 +1,4 @@
+#Mon Oct 17 09:26:54 SGT 2022
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\ActivitySceneTransitionBasic\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
